@@ -12,7 +12,7 @@ namespace GenericsMaxNumber
         {
             int[] intArray = { 10, 20, 30 };
             double[] doubleArray = { 50.2, 30.9, 60.50 };
-            string[] stringArray = {"50", "110", "111"};
+            string[] stringArray = {"84", "60", "50"};
 
             Program.MaxNum<int>(intArray);
             Program.MaxNum<double>(doubleArray);
